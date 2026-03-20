@@ -18,11 +18,11 @@
 SELECT * FROM maciel WHERE vida = 'incrível';
 ```
 
-- 🗄️ Estudando **Banco de Dados** e **MySQL**
-- 🐙 Aprendendo **Git** e **GitHub**
-- ⚡ Fã de **Hunter x Hunter**
-- 🎯 Sempre buscando evoluir como um **Nen Master**
-- 📍 Brasil
+- 🗄️ Entusiasta de **Banco de Dados** e **MySQL**
+- 🐙 Sempre estudado **Python** e **SQL**
+- ⚡ Sempre acompanhando o cenário de jogos e animes
+- 🎯 Sempre buscando evoluir
+- 📍 Brasil/Portugal
 
 ---
 
